@@ -1,6 +1,8 @@
-# Input Field Catalog
+# Other Input Fields
 
-> The following are interesting values for testing input fields.
+## Enumerated
+
+What are the interesting input tests for enumerated fields?
 
 
 
