@@ -4,14 +4,15 @@
 
 - Nothing
 - Empty field (clear the default value)
-- Outside of upper bound (UB) number of digits or characters
+- Whitespace only (tab, space)
 - 0
-- Valid value At lower bound (LB) of value − 1
-- At lower bound (LB) of value
-- At upper bound (UB) of value
-- At upper bound (UB) of value + 1
-- Far below the LB of value
-- Far above the UB of value
+- Valid value
+- At lower bound (LB) of range
+- At lower bound (LB) of range − 1
+- At upper bound (UB) of range
+- At upper bound (UB) of range + 1
+- Far below the LB of range
+- Far above the UB of range
 - At LB number of digits or characters
 - At LB − 1 number of digits or characters
 - At UB number of digits or characters
@@ -37,7 +38,3 @@
 - Enter digits and edit them using the backspace key, and delete them, and use arrow keys (or the mouse) to move you into the digits you’ve already entered so that you can insert or overtype new digits.
 - Enter digits while the system is reacting to interrupts of different kinds (such as printer activity, clock events, mouse movement and clicks, files going to disk, and so on).
 - Enter a digit, shift focus to another application, return to this application. Where is the focus?
-
-## Credits
-
-From [Lessons Learned in Software Testing: A Context-Driven Approach](http://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven-ebook/dp/B000S1LVBS/) (p. 45). John Wiley and Sons. Kindle Edition. Kaner, Cem; Bach, James; Pettichord, Bret (2008-04-21).

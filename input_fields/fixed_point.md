@@ -1,4 +1,4 @@
-# Floating Point
+# Fixed Point
 
 > What are the interesting input tests for a simple floating point field?
 
