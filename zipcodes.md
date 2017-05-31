@@ -4,17 +4,38 @@
 
 ## Interesting US Zipcodes
 
-- 99950 – Ketchikan, AK. The Highest ZIP Code in the US
-- 00501 – Holtsville, NY. The Lowest ZIP Code in the US. Also boundary conditions for fields that might truncate leading zeros.
-- 06390 – Fishers Island, NY. The NY ZIP Code that Belongs in Connecticut
-- 20252 – Washington, DC. Smokey Bear’s Personal ZIP Code
-- 12345 – Schenectady, NY. GE’s Glamour ZIP Code
-
-Reference: America’s 5 Most Interesting ZIP Codes | http://lite987.com/americas-5-most-interesting-zip-codes/
+- 00501
+  - Lowest ZIP 
+  - Holtsville, NY
+  - Also detects fields that might truncate leading zeros
+- 99950
+  - Highest ZIP
+  - Ketchikan, AK
+- 06390
+  - NY ZIP that Belongs in Connecticut?
+  - Fishers Island, NY. 
+- 12345
+  - General Electric’s Unique ZIP
+  - Schenectady, NY. 
+- 20252 
+  - Smokey Bear’s Personal ZIP
+  - Washington, DC. 
+- 22313
+  - P.O. box only ZIP
+  - Alexandria, Virginia.  
+- 99530-9998  
+  - ZIP for Santa Claus in the north pole.
+  - Anchorage, AK. 
 
 ## Zipcode Formats
 
-- ZIP => 5 digits
-- ZIP '-' 4 => 10 characters (5 digits + "-" + 4 digits)
-- ZIP + 4 => 9 digits
-  - For example, 99530-9998 => Zip code for Santa Claus in the north pole. 
+- 5 digits (ZIP)
+  - 99530
+- 9 digits (ZIP + 4)
+  - 995309998
+- 10 digits (ZIP + "-" + 4)
+  - 99530-9998
+
+### References
+
+- America’s 5 Most Interesting ZIP Codes | http://lite987.com/americas-5-most-interesting-zip-codes/
