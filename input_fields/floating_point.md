@@ -11,3 +11,8 @@
 - At lower bound (LB) of range − delta
 - At upper bound (UB) of range
 - At upper bound (UB) of range + delta
+
+
+**References**
+
+- https://en.wikipedia.org/wiki/Floating-point_arithmetic
