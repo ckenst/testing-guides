@@ -1,6 +1,7 @@
 # Guideword Heuristics
 
-
+- http://www.qualityperspectives.ca/resources_mnemonics.html
+- Might need to break this apart and put into a directory for easier consumption
 
 **FCC CUTS VIDS**
 
