@@ -1,8 +1,8 @@
-# Input Field Catalogs
+# Data Catalogs
 
-> The following files contain interesting values for testing input fields.
+> The following files contain interesting values (data) for testing input and output fields.
 
-Input fields are crazy things. Let's exploit them together.
+"Input fields are crazy things. Let's exploit them together."
 
 ## Test Matrix
 

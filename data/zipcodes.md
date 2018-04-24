@@ -1,11 +1,11 @@
 # Zipcodes
 
-> What are the interesting input tests for zipcodes?
+> What are interesting input tests for zipcodes?
 
 ## Interesting US Zipcodes
 
 - 00501
-  - Lowest ZIP 
+  - Lowest ZIP
   - Holtsville, NY
   - Also detects fields that might truncate leading zeros
 - 99950
@@ -13,19 +13,19 @@
   - Ketchikan, AK
 - 06390
   - NY ZIP that Belongs in Connecticut?
-  - Fishers Island, NY. 
+  - Fishers Island, NY.
 - 12345
   - General Electric’s Unique ZIP
-  - Schenectady, NY. 
-- 20252 
+  - Schenectady, NY.
+- 20252
   - Smokey Bear’s Personal ZIP
-  - Washington, DC. 
+  - Washington, DC.
 - 22313
   - P.O. box only ZIP
   - Alexandria, Virginia.  
 - 99530-9998  
   - ZIP for Santa Claus in the north pole.
-  - Anchorage, AK. 
+  - Anchorage, AK.
 
 ## Zipcode Formats
 
