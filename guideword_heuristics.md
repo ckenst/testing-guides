@@ -102,3 +102,5 @@ According to the website: When you are considering threats, it is useful to ask 
 - What is the impact if an attacker can read the user profile data?
 - What happens if access is denied to the user profile database?
 - https://msdn.microsoft.com/en-US/library/ee823878.aspx
+
+(Other Guidewords can be found in their respective directories)
