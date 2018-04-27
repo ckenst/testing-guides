@@ -18,6 +18,8 @@ Definitely need a table of contents.
 * [Kenst, Chris's Images catalog](https://github.com/ckenst/images_catalog)
 * [Marick, Brian's Short Catalog of Test Ideas](http://www.exampler.com/testing-com/writings/short-catalog.pdf)
 * http://sce.uhcl.edu/helm/rationalunifiedprocess/process/workflow/test/co_tstidsctlg.htm
+* [National Vulnerability Database](https://nvd.nist.gov/)
+* [Common Weakness Enumeration](https://nvd.nist.gov/vuln/categories)
 
 ## Questions, Suggestions
 
