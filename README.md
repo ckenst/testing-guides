@@ -4,6 +4,8 @@ Having a good catalog or guide to reference (either one you created or this one)
 
 Catalogs and Guides provide Test Ideas. Sometimes they're going to be applicable, sometimes they won't and still other times they won't be worth testing.
 
+You can develop a standard set of tests for a specific type of object (or risk) and reuse the set for similar things in this product and later products. Marick (1994) suggested that testers develop these types of lists and called them test idea catalogs. 
+
 ## TOC
 
 Definitely need a table of contents.
@@ -15,6 +17,7 @@ Definitely need a table of contents.
 * [Hunter, Michael's You Are Not Done Yet Checklist](http://thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
 * [Kenst, Chris's Images catalog](https://github.com/ckenst/images_catalog)
 * [Marick, Brian's Short Catalog of Test Ideas](http://www.exampler.com/testing-com/writings/short-catalog.pdf)
+* http://sce.uhcl.edu/helm/rationalunifiedprocess/process/workflow/test/co_tstidsctlg.htm
 
 ## Questions, Suggestions
 
