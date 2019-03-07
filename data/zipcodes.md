@@ -27,6 +27,12 @@
   - ZIP for Santa Claus in the north pole.
   - Anchorage, AK.
 
+## Interesting Non-US Postal Codes
+
+- H0H 0H0
+  - ZIP for North Pole
+  - North Pole, Canada
+
 ## Zipcode Formats
 
 - 5 digits (ZIP)
