@@ -1,4 +1,4 @@
-# Zipcodes
+# Zip + Post codes
 
 > What are interesting input tests for zipcodes?
 
@@ -27,12 +27,6 @@
   - ZIP for Santa Claus in the north pole.
   - Anchorage, AK.
 
-## Interesting Non-US Postal Codes
-
-- H0H 0H0
-  - ZIP for North Pole
-  - North Pole, Canada
-
 ## Zipcode Formats
 
 - 5 digits (ZIP)
@@ -42,6 +36,13 @@
 - 10 digits (ZIP + "-" + 4)
   - 99530-9998
 
-### References
+## Interesting Non-US Postal Codes
 
-- America’s 5 Most Interesting ZIP Codes | http://lite987.com/americas-5-most-interesting-zip-codes/
+- H0H 0H0
+  - Post Code for North Pole
+  - North Pole, Canada
+  
+- LL61 5QH
+  - Post Code for Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch
+  - Sometimes abbreviated to Llanfairpwllgwyngyll
+  - Wales, UK
