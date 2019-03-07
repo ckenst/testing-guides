@@ -41,7 +41,6 @@
 - H0H 0H0
   - Post Code for North Pole
   - North Pole, Canada
-  
 - LL61 5QH
   - Post Code for Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch
   - Sometimes abbreviated to Llanfairpwllgwyngyll
