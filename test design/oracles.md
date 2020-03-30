@@ -1,12 +1,11 @@
 # Test Oracles
 
-Oracles are interesting (terminology) because the original oracles were from Greece and were mythological. In software testing, an oracle is a tool that helps you decide whether the program passed your test. [(Foundations of Software Testing, pg. 92.)] Oracles are heuristic - they're fallible. 
+Oracles are interesting (terminology) because the original oracles were from Greece and were mythological. In software testing, an oracle is a tool that helps you decide whether the program passed your test. Oracles are heuristic - they're fallible. 
 
 ## A List of Partial Oracles
 
-[(Foundations of Software Testing, pg. 95-96.)]
 
-This list can be used in place of the tables from the Foundations Lectures. 
+This list can be used in place of the tables from the AST-BBST Foundations Lectures. 
 
   * **Constraint oracle:** We use the constraint oracle to check for impossible values or impossible relationships. For example an American ZIP code must be 5 or 9 digits. If you see something that is non-numeric or some other number of digits, it cannot be a ZIP code. A program that produces such a thing as ZIP code has a bug. 
   * **Regression oracle:** We use the regression oracle to check results of the current test against results of execution of the same test on a previous version of the product. 
