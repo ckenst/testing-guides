@@ -6,10 +6,6 @@ Catalogs and Guides provide Test Ideas. Sometimes they're going to be applicable
 
 You can develop a standard set of tests for a specific type of object (or risk) and reuse the set for similar things in this product and later products. Marick (1994) suggested that testers develop these types of lists and called them test idea catalogs. 
 
-## TOC
-
-Definitely need a table of contents.
-
 ## Other Guides & Catalogs
 
 * [Bach, Jame's Heuristic Test Strategy Model](http://www.satisfice.com/tools/htsm.pdf)
