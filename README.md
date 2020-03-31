@@ -1,21 +1,28 @@
-# Testing Guides & Catalog
+# Testing Catalog & Guide
 
-Having a good catalog or guide to reference (either one you created or this one) should be part of every software tester + developers toolbox. The following are meant to help with specific and more generalized testing, to provoke ideas for finding failures.
+You can develop a standard set of tests for a specific type of object (or risk) and reuse the set for similar things in this and/or later products. Marick (1994) suggested that testers develop these types of lists and called them test idea catalogs. 
 
-Catalogs and Guides provide Test Ideas. Sometimes they're going to be applicable, sometimes they won't and still other times they won't be worth testing.
+Having a good catalog to reference should be part of every software tester + developers toolbox. The following are meant to help with specific and more generalized testing, to provoke ideas for finding failures.
 
-You can develop a standard set of tests for a specific type of object (or risk) and reuse the set for similar things in this product and later products. Marick (1994) suggested that testers develop these types of lists and called them test idea catalogs. 
+*This is still very much a work in progress as I figure out how to best focus and use it*
+
+- Sometimes I like catalogs
+- Sometimes I like checklists
+- Sometimes I like guides
+- Sometimes I like cheat sheets
+- I almost always love models
+
 
 ## Other Guides & Catalogs
 
-* [Bach, Jame's Heuristic Test Strategy Model](http://www.satisfice.com/tools/htsm.pdf)
 * [Hendrickson, Elizabeth's Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 * [Hunter, Michael's You Are Not Done Yet Checklist](http://thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
-* [Kenst, Chris's Images catalog](https://github.com/ckenst/images_catalog)
-* [Marick, Brian's Short Catalog of Test Ideas](http://www.exampler.com/testing-com/writings/short-catalog.pdf)
+* [Kenst's Images Catalog](https://github.com/ckenst/images_catalog)
+* [Marick's Short Catalog of Test Ideas](http://www.exampler.com/testing-com/writings/short-catalog.pdf)
 * http://sce.uhcl.edu/helm/rationalunifiedprocess/process/workflow/test/co_tstidsctlg.htm
 * [National Vulnerability Database](https://nvd.nist.gov/)
 * [Common Weakness Enumeration](https://nvd.nist.gov/vuln/categories)
+* http://www.qualityperspectives.ca/resources_mnemonics.html
 
 ## Questions, Suggestions
 

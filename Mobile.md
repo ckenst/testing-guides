@@ -1,12 +1,23 @@
-# Mobile Catalogs
+# Mobile
 
-The following guides and catalogs should help with testing mobile devices. 
+The following might help with testing mobile devices. 
 
-## Other Guides & Catalogs:
+- Battery
+- Standby
+- Accessibility Testing
+- Interrupts
+- Permissions
+- Gestures
+- Beta Testing
+- Security
+- Sensors
+- Mobile Networks
 
+## Guides:
+
+* [Knott's Mobile Testing Cheat Sheet](https://adventuresinqa.com/wp-content/uploads/2015/12/Mobile-Testing-Cheat-Sheet-Adventures-in-QA.pdf)
 * [Android User Interface Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
-* [Knott, Daniel's Mobile Testing Cheat Sheet](http://adventuresinqa.com/2016/01/11/mobile-testing-cheat-sheet/)
 
 ## MNEMONICs
 
