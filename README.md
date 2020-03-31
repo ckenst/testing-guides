@@ -20,9 +20,8 @@ You can develop a standard set of tests for a specific type of object (or risk) 
 ## Questions, Suggestions
 
 * Twitter: [@ckenst](http://twitter.com/ckenst)
+* Edit on GitHub
 
-## Contribute
+## Make Your Own
 
-* What are we missing?
-* Open a Pull Request to add some data
-* File an Issue, add it yourself or add something to the [TODO](TODO.md) list!
+If you like this idea, clone the repo and make it yours!
