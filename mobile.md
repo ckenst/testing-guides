@@ -1,17 +1,17 @@
 # Mobile
 
-The following might help with testing mobile devices. 
+The following might help with testing mobile devices.
 
-- Battery
-- Standby
-- Accessibility Testing
-- Interrupts
-- Permissions
-- Gestures
-- Beta Testing
-- Security
-- Sensors
-- Mobile Networks
+* Battery
+* Standby
+* Accessibility Testing
+* Interrupts
+* Permissions
+* Gestures
+* Beta Testing
+* Security
+* Sensors
+* Mobile Networks
 
 ## Guides:
 
@@ -23,3 +23,4 @@ The following might help with testing mobile devices.
 
 * [I SLICED UP FUN](http://www.kohl.ca/articles/ISLICEDUPFUN.pdf)
 * [MOBILE APP TESTING](https://dojo.ministryoftesting.com/dojo/lessons/mobile-app-testing-mnemonic)
+

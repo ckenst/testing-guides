@@ -4,21 +4,21 @@
 
 A bug reporting heuristic for Bug Advocacy.
 
-- Replicate.
-- Isolate.
-- Maximize.
-- Generalize.
-- Externalize
-- Neutral Tone. (Formerly 'And Say it Clearly and Dispassionately')
+* Replicate.
+* Isolate.
+* Maximize.
+* Generalize.
+* Externalize
+* Neutral Tone. \(Formerly 'And Say it Clearly and Dispassionately'\)
 
 **REACT**
 
 A bug reporting heuristic.
 
-- Reproduce:
-- Explore:
-- Analyze:
-- Communicate:
-- Triage
+* Reproduce:
+* Explore:
+* Analyze:
+* Communicate:
+* Triage
+* [http://www.brendanconnolly.net/react-to-bugs/](http://www.brendanconnolly.net/react-to-bugs/)
 
-- http://www.brendanconnolly.net/react-to-bugs/
