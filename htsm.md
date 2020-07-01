@@ -101,7 +101,7 @@ Any relationship between the product and time.
 - Changing Rates: speeding up and slowing down (spikes, bursts, hangs, bottlenecks, interruptions).
 - Concurrency: more than one thing happening at once (multi-user, time-sharing, threads, and semaphores, shared data).
 
-## Test Techniques
+## Top Test Techniques
 
 A test technique is a heuristic for creating tests. There are many interesting techniques. The list includes nine general techniques. By “general technique” we mean that the technique is simple and universal enough to apply to a wide variety of contexts. Many specific techniques are based on one or more of these nine. And an endless variety of specific test techniques may be constructed by combining one or more general techniques with coverage ideas from the other lists in this model.
 
