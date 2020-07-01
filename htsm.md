@@ -1,15 +1,25 @@
 # Heuristic Test Strategy Model
 
-The Heuristic Test Strategy Model is a set of patterns for designing a test strategy. The immediate purpose of this model is to remind testers of what to think about when they are creating tests. Ultimately, it is intended to be customized and used to facilitate dialog and direct self-learning among professional testers.
-
-Project Environment includes resources, constraints, and other elements in the project that may enable or hobble our testing. Sometimes a tester must challenge constraints, and sometimes accept them.
-
-Product Elements are things that you intend to test. Software is complex and invisible. Take care to cover all of it that matters, not just the parts that are easy to see.
-
-Quality Criteria are the rules, values, and sources that allow you as a tester to determine if the product has problems. Quality criteria are multidimensional and often hidden or self-contradictory.
-
-Test Techniques are heuristics for creating tests. All techniques involve some sort of analysis of project environment, product elements, and quality criteria.
-
+The Heuristic Test Strategy Model is a set of patterns for designing a test strategy. The immediate purpose of this model is to remind testers of what to think about when they are creating tests. Ultimately, it is intended to be customized and used to facilitate dialog and direct self-learning among professional testers.
+
+
+
+Project Environment includes resources, constraints, and other elements in the project that may enable or hobble our testing. Sometimes a tester must challenge constraints, and sometimes accept them.
+
+
+
+Product Elements are things that you intend to test. Software is complex and invisible. Take care to cover all of it that matters, not just the parts that are easy to see.
+
+
+
+Quality Criteria are the rules, values, and sources that allow you as a tester to determine if the product has problems. Quality criteria are multidimensional and often hidden or self-contradictory.
+
+
+
+Test Techniques are heuristics for creating tests. All techniques involve some sort of analysis of project environment, product elements, and quality criteria.
+
+
+
 Perceived Quality is the result of testing. You can never know the "actual" quality of a software product, but through the application of a variety of tests, you can make an informed assessment of it.
 
 ## Product Elements
