@@ -1,4 +1,4 @@
-# Exploration & Regression
+# Exploratory
 
 **FCC CUTS VIDS**
 
@@ -16,16 +16,4 @@ A test touring heuristic.
 * Data tour: Identify the major data elements of the application.
 * Structure tour: Find everything you can about what comprises the physical product \(code, interfaces, hardware, files, etc…\).
 * [http://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html](http://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html)
-
-**RCRCRC**
-
-A regression testing heuristic.
-
-* Recent: new features, new areas of code are more vulnerable
-* Core: essential functions must continue to work
-* Risk: some areas of an application pose more risk
-* Configuration sensitive: code that’s dependent on environment settings can be vulnerable
-* Repaired: bug fixes can introduce new issues
-* Chronic: some areas in an application may be perpetually sensitive to breaking
-* [http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/)
 

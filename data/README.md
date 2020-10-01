@@ -13,10 +13,8 @@ When testing input fields it is often useful to list the variables you are inter
 
 ## Other Catalogs:
 
-* [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode)
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-* [Kenst's Images Catalog](https://github.com/ckenst/images_catalog)
+* [Chris's Images Catalog](https://github.com/ckenst/images_catalog)
 
 ## Credits
 
