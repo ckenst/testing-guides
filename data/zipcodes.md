@@ -1,8 +1,8 @@
 # Zip + Post codes
 
-> What are interesting input tests for zipcodes?
+> What are some interesting input tests for zipcodes?
 
-## Interesting US Zipcodes
+## US Zipcodes
 
 * 00501
   * Lowest ZIP
@@ -27,16 +27,7 @@
   * ZIP for Santa Claus in the north pole.
   * Anchorage, AK.
 
-## Zipcode Formats
-
-* 5 digits \(ZIP\)
-  * 99530
-* 9 digits \(ZIP + 4\)
-  * 995309998
-* 10 digits \(ZIP + "-" + 4\)
-  * 99530-9998
-
-## Interesting Non-US Postal Codes
+## Non-US Postal Codes
 
 * H0H 0H0
   * Post Code for North Pole
@@ -46,3 +37,11 @@
   * Sometimes abbreviated to Llanfairpwllgwyngyll
   * Wales, UK
 
+## Zipcode Formats
+
+* 5 digits \(ZIP\)
+  * 99530
+* 9 digits \(ZIP + 4\)
+  * 995309998
+* 10 digits \(ZIP + "-" + 4\)
+  * 99530-9998

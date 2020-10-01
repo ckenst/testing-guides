@@ -2,6 +2,8 @@
 
 > What are the interesting input tests for a simple integer field?
 
+## Integers
+
 * Nothing
 * Empty field \(clear the default value\)
 * Whitespace only \(tab, space\)

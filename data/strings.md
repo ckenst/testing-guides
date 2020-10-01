@@ -1,8 +1,8 @@
 # Strings
 
-> What are the interesting input tests for a simple string field?
+> What are some interesting input tests for a simple string field?
 
-## Interesting Strings
+## Strings
 
 * Nothing
 * Empty field \(clear the default value\)
