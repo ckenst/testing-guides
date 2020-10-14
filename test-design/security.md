@@ -1,10 +1,18 @@
 # Security
 
-The following guides and catalogs should help with thinking about and testing software security.
+The following should help with thinking about and testing for software security.
+
+## RISKS / Potential Failures
+
+(Might make sense to move this into data or into a separate area)
+
+* [Reset Password, token sent in reply](https://www.troyhunt.com/hacking-grindr-accounts-with-copy-and-paste/). Allows hacker to reset password and take over account. 
+
 
 ## MNEMONICs
 
 * [EXTERMINATE](https://www.slideshare.net/andreicontan/daniel-billing-exploring-the-security-testers-toolbox)
+* STRIDE
 
 **STRIDE**
 
