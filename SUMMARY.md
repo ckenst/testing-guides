@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Testing Guide](README.md)
+* [Home](README.md)
 * [Data Catalogs](data/README.md)
   * [Fixed Point](data/fixed_point.md)
   * [Floating Point](data/floating_point.md)
@@ -8,8 +8,6 @@
   * [Strings](data/strings.md)
   * [Zip + Post codes](data/zipcodes.md)
 * [Error Catalogs](errors/README.md)
-* [Bug Reporting](bugreporting.md)
-* [Test Reporting](reporting.md)
 * [Test Strategy](strategy.md)
   * [HTSM](htsm.md)
 * [Exploratory Testing](exploration/README.md)
@@ -28,4 +26,6 @@
   * [Testing Folklore](misc/folklore.md)
   * [Mobile](misc/mobile.md)
   * [About Test Idea Catalogs](misc/about.md)
+  * [Bug Reporting](bugreporting.md)
+  * [Test Reporting](reporting.md)
 

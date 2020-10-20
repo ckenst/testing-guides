@@ -13,8 +13,9 @@
 * Hyphenated last names 
   * Rainbolt-greene
 * Strings + Unicode
-  * Names like Chris 💣 (bomb)
+  * See emjois below
 * Unicode like Emjois
+  * Names like Chris 💣 (bomb)
   * [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode)  
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 

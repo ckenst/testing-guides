@@ -2,7 +2,7 @@
 
 This is my testing guide. It is filled with catalogs, heuritics, guidewords, cheat sheets, lists, links and other models I find useful. 
 
-_This is still very much a work in progress as I figure out how to best focus and use it. Currently it is too large and not focused enough on test ideas_
+_This is still very much a work in progress as I figure out how to best focus and use it._
 
 * Sometimes I like catalogs
 * Sometimes I like checklists
