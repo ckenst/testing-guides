@@ -11,11 +11,6 @@ When testing input fields it is often useful to list the variables you are inter
 1. [Classic Equivalence Class table](https://www.dropbox.com/s/eeboxpg00qnocof/Classical%20Boundary%3AEquivalence%20Table%20Template.xltx?dl=0)
 2. [Risk Equivalence Class table](https://www.dropbox.com/s/mbyvz8yot4jf37b/Risk%20%3A%20Equivalence%20Table%20Template.xltx?dl=0)
 
-## Other Catalogs:
-
-* [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-* [Chris's Images Catalog](https://github.com/ckenst/images_catalog)
-
 ## Credits
 
 The input catalog information came from a combination of information from:
