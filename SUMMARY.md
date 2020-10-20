@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Testing Catalog & Guide](README.md)
+* [Testing Guide](README.md)
 * [Data Catalogs](data/README.md)
   * [Fixed Point](data/fixed_point.md)
   * [Floating Point](data/floating_point.md)
