@@ -6,11 +6,9 @@ Having a good catalog to reference should be part of every software tester + dev
 
 ## Other Catalogs:
 
+* [Chapter 3 of Lessons Learned](http://www.testingeducation.org/BBST/testdesign/KanerBachPettichord_Lessons_Learned_in_SW_testingCh3-1.pdf)
 * [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-* [Chris's Images Catalog](https://github.com/ckenst/images_catalog)
 * [Marick's Short Catalog of Test Ideas](http://www.exampler.com/testing-com/writings/short-catalog.pdf)
-* [National Vulnerability Database](https://nvd.nist.gov/)
-* [Common Weakness Enumeration](https://nvd.nist.gov/vuln/categories)
 
 ## Resources:
 

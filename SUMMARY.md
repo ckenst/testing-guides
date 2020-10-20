@@ -7,6 +7,7 @@
   * [Integers](data/integers.md)
   * [Strings](data/strings.md)
   * [Zip + Post codes](data/zipcodes.md)
+* [Error Catalogs](errors/README.md)
 * [Bug Reporting](bugreporting.md)
 * [Test Reporting](reporting.md)
 * [Test Strategy](strategy.md)
