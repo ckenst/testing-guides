@@ -8,23 +8,23 @@ In other words, quicktests are a great way to /start/ testing a product.
 
 ## From BBST Slides:
 
-* User interface design errors
-* Boundaries
-* Overflow
-* Calculations and operations
-* Initial states
-* Modified values
-* Control flow
-* Sequences
-* Messages
-* Timing and race conditions
-* Interface tests
-* Error handling
-* Failure handling
-* File system
-* Load and Stress
-* Configuration
-* Multivariable relationships
+* User interface design errors -> Tour the user interface for things that are confusing, unappealing, time-wasting or inconsistent with relevant design norms.
+* Boundaries -> The program expects variables to stick within a range of permissible values.
+* Overflow -> These values are far too large or too small for the program to handle.
+* Calculations and operations -> Calculation involves evaluation of expressions, like 5*2. Some expressions evaluate to impossible results. Others can’t be evaluated because the operators are invalid for the type of data.
+* Initial states -> What value does a variable hold the first time you use it?
+* Modified values -> Set a variable to a value; then change it. This creates a risk if some other part of the program depends on this variable.
+* Control flow -> The control flow of a program describes what it will do next. A control flow error occurs when the program does the wrong next thing.
+* Sequences -> A program might pass a simple test but fail the same test embedded in a longer sequence.
+* Messages -> If the program communicates with an external server or system, corrupt the messages between them.
+* Timing and race conditions -> Timing failures can happen if the program needs access to a resource by a certain time, or must complete a task by a certain time.
+* Interface tests -> In interference testing, you do something to interfere with a task in progress. This might cause a timeout or a failed race condition. Or the program might lose data in transmission to/from an external system or device.
+* Error handling -> Errors in dealing with errors are among the most common bugs.
+* Failure handling -> After you find a bug, you can look for related bugs.
+* File system -> Read or write to files under conditions that should cause a failure.
+* Load and Stress -> Significant background activity eats resources and adds delays. This can yield failures that would not show up on a quiet system.
+* Configuration -> Check the application’s compatibility with different system configurations.
+* Multivariable relationships -> Any relationship between two variables is an opportunity for a relationship failure. 
 
 ## From RST Slides:
 
