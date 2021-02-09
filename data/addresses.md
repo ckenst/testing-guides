@@ -9,7 +9,7 @@
     - Private Mailbox (PMB)
 - Physical Address
 
-## Not all mailing addresses are shipping addresses
+### Not all mailing addresses are shipping addresses
 
 Physical Address:
 25777 Co Rd 103
@@ -19,7 +19,12 @@ USPS Mailing Address:
 25777 Co Rd 103
 Jelm, WY 82063-9203
 
-## Wrong City
+### Missing Street
+
+Correct Address: 1200 Park Ave, Emeryville, CA 94608
+Wrong Address: 1200 Park, Emeryville, CA 94608
+
+### Wrong City
 
 Correct Address: 1200 Park Ave, Emeryville, CA 94608
 Wrong Address: 1200 Park Ave, Oakland, CA 94608
@@ -28,6 +33,17 @@ Correct Address: 2 Kirkland St, Cambridge MA 02138
 Wrong Address: 2 Kirkland St, Boston MA 02138
 
 
-## Wrong State
+### Wrong State
 
-## Wrong Country
+### Wrong Country
+
+
+## Test Ideas
+
+- Start with well known addresses that don't change
+    - Hospitals
+    - Schools / Universities
+    - Cemeteries
+    - Government Locations
+    - Landmarks
+-  
