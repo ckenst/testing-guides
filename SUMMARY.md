@@ -5,6 +5,7 @@
   * [Fixed Point](data/fixed_point.md)
   * [Floating Point](data/floating_point.md)
   * [Integers](data/integers.md)
+  * [Phone Number](data/phones.md)
   * [Strings](data/strings.md)
   * [Zip + Post codes](data/zipcodes.md)
 * [Error Catalogs](errors/README.md)
