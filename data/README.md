@@ -14,6 +14,7 @@ When testing input fields it is often useful to list the variables you are inter
 ## Other Catalogs:
 
 * [Chris's Images Catalog](https://github.com/ckenst/images_catalog)
+* [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 ### Credits
 
