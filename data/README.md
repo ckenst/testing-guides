@@ -15,6 +15,8 @@ When testing input fields it is often useful to list the variables you are inter
 
 * [Chris's Images Catalog](https://github.com/ckenst/images_catalog)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+* [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+* [More falsehoods programmers believe about time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 
 ### Credits
 
