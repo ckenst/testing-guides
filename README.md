@@ -24,3 +24,9 @@ _This is still very much a work in progress as I figure out how to best focus an
 ## Make Your Own
 
 If you like this idea, clone the repo and make it yours!
+
+
+## TODO:
+
+1. Add Timezones and Time related catalogs
+2. Find a better way make this list / catalog actionable. 
