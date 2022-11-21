@@ -12,7 +12,7 @@ _This is still very much a work in progress as I figure out how to best focus an
 
 ## Other
 
-* [Hendrickson, Elizabeth's Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+* [Hendrickson, Elizabeth's Test Heuristics Cheat Sheet](https://s3.eu-west-1.amazonaws.com/matrix.assets/fa2aa6x6kkxle2lv5xm720wltja3)
 * [Hunter, Michael's You Are Not Done Yet Checklist](http://thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
 * [http://www.qualityperspectives.ca/resources\_mnemonics.html](http://www.qualityperspectives.ca/resources_mnemonics.html)
 
@@ -24,4 +24,3 @@ _This is still very much a work in progress as I figure out how to best focus an
 ## Make Your Own
 
 If you like this idea, clone the repo and make it yours!
-
